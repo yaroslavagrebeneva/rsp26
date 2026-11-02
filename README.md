@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZDFvOHBhc3EyZWJveHg2a3d6ZTZrbXV4cTgyMWk1dGVpNWsxdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width="60"/>
+  <img src="https://github.com/yaroslavagrebeneva/rsp26/blob/2483d28dd245811cd3541e49d377b703bc6236e4/Office%20Monkey%20GIF%20by%20Giphy%20QA.gif" width="480"/>
 </div>
 
 # CheckIn

@@ -1,6 +1,7 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZDFvOHBhc3EyZWJveHg2a3d6ZTZrbXV4cTgyMWk1dGVpNWsxdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDIxbjI3Z2xxcmVhdjZhN2FvbjhydTRnZWQxcndzb2x0cWkxbmlzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="480"/>
 </div>
+
 
 # CheckIn
 
@@ -12,4 +13,4 @@ CheckIn — веб-система для автоматизации учёта �
 
 ---
 
-## Цель проекта
+## Лабораторные работы

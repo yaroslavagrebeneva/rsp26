@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDIxbjI3Z2xxcmVhdjZhN2FvbjhydTRnZWQxcndzb2x0cWkxbmlzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="480"/>
+  <img src="https://github.com/yaroslavagrebeneva/rsp26/blob/21ce2161ce9b10c1b46ba97bd74239dc4189c3ae/Office%20Monkey%20GIF.gif" width="480"/>
 </div>
 
 
@@ -14,3 +14,5 @@ CheckIn — веб-система для автоматизации учёта �
 ---
 
 ## Лабораторные работы
+
+<a href="https://github.com/yaroslavagrebeneva/yasya_JS_tasks/tree/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B">Tasks_#1_67</a>

@@ -8,10 +8,10 @@ CheckIn построен по клиент-серверной архитекту
 
 - **Web Client** — веб-интерфейс системы;
 - **Backend Service** — REST API и бизнес-логика;
-- **Database** — MySQL, хранение основных данных;
+- **Database** — PostgreSQL, хранение основных данных;
 - **File Storage** — хранение документов и файлов, прикрепляемых к объяснениям отсутствия.
 
-Пользователи взаимодействуют с системой через Web Client. Web Client отправляет запросы в Backend Service по REST API. Backend Service выполняет бизнес-логику, проверяет права доступа и взаимодействует с MySQL и файловым хранилищем.
+Пользователи взаимодействуют с системой через Web Client. Web Client отправляет запросы в Backend Service по REST API. Backend Service выполняет бизнес-логику, проверяет права доступа и взаимодействует с PostgreSQL и файловым хранилищем.
 
 ---
 
@@ -222,7 +222,7 @@ System_Boundary(checkin, "CheckIn") {
 
     Container(api, "Backend Service", "FastAPI", "REST API и бизнес-логика системы")
 
-    ContainerDb(db, "Database", "MySQL", "Данные пользователей, групп, занятий, посещаемости и уведомлений")
+    ContainerDb(db, "Database", "PostgreSQL", "Данные пользователей, групп, занятий, посещаемости и уведомлений")
 
     Container(files, "File Storage", "File Storage", "Хранение документов и файлов")
 }

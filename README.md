@@ -1,6 +1,8 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiZDFvOHBhc3EyZWJveHg2a3d6ZTZrbXV4cTgyMWk1dGVpNWsxdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width="60"/>
+  <img src="https://github.com/yaroslavagrebeneva/rsp26/blob/21ce2161ce9b10c1b46ba97bd74239dc4189c3ae/Office%20Monkey%20GIF.gif" width="480"/>
 </div>
+
+
 
 # CheckIn
 

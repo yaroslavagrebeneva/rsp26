@@ -15,4 +15,16 @@ CheckIn — веб-система для автоматизации учёта �
 
 ## Лабораторные работы
 
-<a href="https://github.com/yaroslavagrebeneva/yasya_JS_tasks/tree/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B">Tasks_#1_67</a>
+<a href="https://github.com/yaroslavagrebeneva/rsp26/tree/lab_1">Лабораторная работа 1</a>
+
+<a href="https://github.com/yaroslavagrebeneva/rsp26/tree/lab_2">Лабораторная работа 2</a>
+
+<a href="https://github.com/yaroslavagrebeneva/rsp26/tree/lab_3">Лабораторная работа 3</a>
+
+<a href="https://github.com/yaroslavagrebeneva/rsp26/tree/lab_4">Лабораторная работа 4</a>
+
+<a href="https://github.com/yaroslavagrebeneva/rsp26/tree/lab_5">Лабораторная работа 5</a>
+
+
+
+

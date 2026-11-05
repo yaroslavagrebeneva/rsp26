@@ -5,6 +5,7 @@ import time
 from typing import Optional
 
 from psycopg_pool import ConnectionPool
+from psycopg.rows import dict_row
 
 from internal.config.settings import Settings
 
@@ -25,7 +26,7 @@ def create_pool(settings: Settings) -> ConnectionPool:
                 max_size=settings.db_max_conns,
                 timeout=3,
                 open=False,
-                kwargs={"connect_timeout": 3},
+                kwargs={"connect_timeout": 3, "row_factory": dict_row},
                 name="checkin-postgres-pool",
             )
             pool.open(wait=True, timeout=4)

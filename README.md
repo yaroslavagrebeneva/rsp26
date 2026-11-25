@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/yaroslavagrebeneva/rsp26/blob/7e94dbcc5ef5b58beb248d8d9c8559777e5b5be8/3.gif" width="480"/>
+  <img src="https://github.com/yaroslavagrebeneva/rsp26/blob/1634e66bcb94479cb0a41eb079d9c5e20769023c/Programmer%20Coding%20GIF.gif" width="480"/>
 </div>
 
 # CheckIn

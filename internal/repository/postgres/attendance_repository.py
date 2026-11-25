@@ -1,4 +1,3 @@
-from typing import List
 """PostgreSQL-реализация репозитория отметок посещаемости."""
 from psycopg_pool import ConnectionPool
 from internal.domain.models import Attendance
@@ -41,7 +40,7 @@ class PostgresAttendanceRepository:
                 return self._model(row)
         return execute_safely(operation)
 
-    def list(self, limit: int = 20, offset: int = 0) -> List[Attendance]:
+    def list(self, limit: int = 20, offset: int = 0) -> list[Attendance]:
         limit, offset = normalize_pagination(limit, offset)
         def operation():
             with self.pool.connection() as conn:

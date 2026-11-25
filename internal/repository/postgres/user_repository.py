@@ -1,4 +1,3 @@
-from typing import List
 """PostgreSQL-реализация репозитория пользователей."""
 from psycopg.rows import dict_row
 from psycopg_pool import ConnectionPool
@@ -55,7 +54,7 @@ class PostgresUserRepository:
                 return self._model(row)
         return execute_safely(operation)
 
-    def list(self, limit: int = 20, offset: int = 0) -> List[User]:
+    def list(self, limit: int = 20, offset: int = 0) -> list[User]:
         limit, offset = normalize_pagination(limit, offset)
         def operation():
             with self.pool.connection() as conn:
